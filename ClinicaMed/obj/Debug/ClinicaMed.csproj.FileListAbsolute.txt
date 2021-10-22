@@ -1,0 +1,42 @@
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\ClinicaMed.exe.config
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\ClinicaMed.exe
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\ClinicaMed.pdb
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\Controller.dll
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\Controller.pdb
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\bin\Debug\DAL.pdb
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.Form1.resources
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.frmMedicoInserir.resources
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.frmMedicoPesquisar.resources
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.frmPacienteInserir.resources
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.exe
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.pdb
+C:\Users\T-Gamer\Desktop\Tiago\ClinicaMed\obj\Debug\ClinicaMed.frmPacientePesquisar.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\ClinicaMed.exe.config
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\ClinicaMed.exe
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\ClinicaMed.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\Controller.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\Controller.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\bin\Debug\DAL.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.Form1.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.frmMedicoInserir.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.frmMedicoPesquisar.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.frmPacienteInserir.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.frmPacientePesquisar.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.exe
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\ClinicaMed\obj\Debug\ClinicaMed.pdb

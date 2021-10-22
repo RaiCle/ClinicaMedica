@@ -1,0 +1,6 @@
+C:\Users\T-Gamer\Desktop\Tiago\Model\bin\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Tiago\Model\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Desktop\Tiago\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Tiago\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Tiago\Model\obj\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Tiago\Model\obj\Debug\Model.pdb

@@ -1,0 +1,18 @@
+C:\Users\T-Gamer\Desktop\Tiago\DAL\bin\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Tiago\DAL\bin\Debug\DAL.pdb
+C:\Users\T-Gamer\Desktop\Tiago\DAL\bin\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Tiago\DAL\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Desktop\Tiago\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Tiago\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Tiago\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Tiago\DAL\obj\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Tiago\DAL\obj\Debug\DAL.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\bin\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\bin\Debug\DAL.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\bin\Debug\Model.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\bin\Debug\Model.pdb
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\obj\Debug\DAL.dll
+C:\Users\T-Gamer\Desktop\Rai Cle 24-08\DAL\obj\Debug\DAL.pdb
